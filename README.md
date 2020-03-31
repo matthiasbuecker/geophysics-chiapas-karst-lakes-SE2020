@@ -17,7 +17,7 @@ If you find this data useful in your own research, please mention this manuscrip
 The following table summarizes the measurements and data provided in this repository
 
 | Month/Year of acquisition | Method | Quantity |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 10/2018  | Sub-bottom profiler (SBP) | Text |
 | 10/2018  | Transient electromagnetics (TEM)  | Text |
 | 03/2019  | Time-domain induced polarization (TDIP) | 8 lines (jshdv) |
