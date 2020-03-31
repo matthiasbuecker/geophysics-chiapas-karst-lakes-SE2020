@@ -20,17 +20,15 @@ All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) conf
 
 TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
 
-## Smooth models (02_smooth_models)
-This subfolder contains the smooth 20-layer resistivity models inverted with the geophysical inversion software ZondTEM1d (Kaminsky, 2001).
-
-The *.xls* files are have been created with the software ZondTEM1d and contain the processed sounding data and the adjusted 20-layer models. The Matlab scripts *xls2txt.m* included in the model directories have to be run to export the models to *.txt* files prior to visualization.
+## Smooth models (02_models)
+This subfolder contains the smooth complex resistivity models inverted with the geophysical inversion algorithm CRTomo (Kemna, 2000).
 
 ## Visualization (03_visualization)
-The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data and *.txt* files with the positions of the individual TEM soundings along the profiles (Profile 4 of Lake Metzabok and Profile 5 of Lake Tziabaná) presented in the manuscript.
+The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data.
 
-Instead of the default Matlab colormaps, we use the perceptually uniform colormap *viridis.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
+Instead of the default Matlab colormaps, we use the perceptually uniform colormaps *viridis.m* and *cividis.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
 
 ## References
 Biguri, Ander (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020.
 
-Kaminsky, Alex (Zond software corporation). 2001. Zondtem1d. Version 28092019. http://zond-geo.com/english/zond-software/electromagnetic-sounding/zondtem1d/.
+Kemna, Andreas (2000). Tomographic inversion of complex resistivity - theory and application, Ph.D., Ruhr-University of Bochum.
