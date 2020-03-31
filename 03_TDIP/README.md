@@ -1,11 +1,13 @@
 # Time-domain induced polarization (TDIP) data
 
 ## Raw data (01_raw)
-This subfolder contains the time-domain induced polarization data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in October 2019. The following table summarizes the available data.
+This subfolder contains the time-domain induced polarization data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in October 2019. The following table summarizes the available survey lines.
 
-| Lake | Acquisition date | Line ID | Profile | Number of electrodes | Electrode spacing | Total length | Remarks |
+| Lake | Acquisition date | Line ID | Profile* | Number of electrodes | Electrode spacing | Total length | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Metzabok | 03/14/2018  | MET19-1 | 1 | 48 | 10 m | 470 m | DD (TDIP) and We (ERT) |
+
+*Survey lines, which are not associated with a profile are not included in the manuscript.
 
 
 For every line, TEM sounding data are provided as a separate *.tem* file for each sounding. Location and water-depth data for the soundings are listed for each lake in the *.txt* files included in the raw-data directory. 
