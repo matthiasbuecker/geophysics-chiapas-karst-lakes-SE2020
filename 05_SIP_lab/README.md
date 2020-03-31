@@ -2,7 +2,7 @@
 Geographic coordinates (WGS84) were measured with a handheld GPS (Garmin eTrex 10).
 
 | Lake | ID | Latitude | Longitude | GPS altitude | Sampling date | Tool | Description |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Metzabok | MET19-A | 17.13017 |	91.63568 | 523 m | 10/11/2019 | Spade |Right in the (drained) pond |
 | Metzabok | MET19-B | 17.12965 | 91.63557 | 525 m | 10/11/2019 | Spade |Last geophone of SRT line MET19-3 |
 | Metzabok | MET19-C | 17.13076 | 91.63558 | 525 m | 10/11/2019 | Spade |First geophone of SRT line MET19-3 |
