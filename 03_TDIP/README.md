@@ -8,7 +8,7 @@ This subfolder contains the time-domain induced polarization data sets of lakes 
 | Metzabok | 10/08/2019  | MET19-1 | 1 | 48 (10 m) | 470 m | DD (TDIP) and We (ERT), starting from the northern shore |
 | Metzabok | 10/08/2019  | MET19-2 | 1 | 48 (10 m) | 470 m | DD (TDIP) and We (ERT), roll along, overlap 24 electrodes with MET19-1 |
 | Metzabok | 10/09/2019  | MET19-3 | 2 | 48 (5 m) | 235 m | DD (TDIP) and We (ERT), parallel to MET19-2, shifted 10 m East |
-| Metzabok | 10/09/2019  | MET19-4 | 2 | 48 (5 m) | 235 m | DD (TDIP) and We (ERT), Perpendicular to MET19-3, centred at the residual pond |
+| Metzabok | 10/09/2019  | MET19-4 | 3 | 48 (5 m) | 235 m | DD (TDIP) and We (ERT), perpendicular to MET19-3, centred at residual pond |
 
 
 *Survey lines, which are not associated with a profile are not included in the manuscript.
