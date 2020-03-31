@@ -17,10 +17,10 @@ If you find this data useful in your own research, please mention this data set 
 
 The following table summarizes the measurements and data provided in this repository. Individual data sets and more detailed information can be found in the subfolders of the repository.
 
-| Month/Year of acquisition | Method | Quantity |
-| --- | --- | --- |
-| 10/2018  | Sub-bottom profiler (SBP) | lines |
-| 10/2018  | Transient electromagnetics (TEM)  |  96 soundings |
-| 03/2019  | Time-domain induced polarization (TDIP) | 8 lines |
-| 03/2019  | Seismic refraction tomography (SRT) | 3 lines |
-| 03/2019  | Spectral induced polarization (SIP) lab measurements | 6 samples |
+| Directory | Method | Month/Year of acquisition | Quantity |
+| --- | --- | --- | --- |
+| 01_SBP | Sub-bottom profiler (SBP) | 10/2018  | lines |
+| 02_TEM | Transient electromagnetics (TEM) | 10/2018  | 96 soundings |
+| 03_TDIP | Time-domain induced polarization (TDIP) | 03/2019 | 8 lines |
+| 04_SRT | Seismic refraction tomography (SRT) | 03/2019 |  3 lines |
+| 05_SIP_lab | Spectral induced polarization (SIP) lab measurements | 03/2019  | 6 samples |
