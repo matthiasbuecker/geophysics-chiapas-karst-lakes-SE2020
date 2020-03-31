@@ -9,4 +9,4 @@ This subfolder contains the sub-bottom profiler data sets of lakes Metzabok (MET
 | Tzibaná | North-South/South-North | X |
 |   | East-West/West-East | X |
 
-Sound-velocity profiles (SVP) measured with the DigibarS are provided in the corresponding excel sheets.
+For every line, sounding and navigation data are provided as *.seg* and *.csv* files, respectively. Sound-velocity profiles (SVP) for both lakes were measured with a DigibarS and are provided in the corresponding excel sheets.
