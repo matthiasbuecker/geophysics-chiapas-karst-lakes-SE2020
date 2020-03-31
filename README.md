@@ -14,14 +14,12 @@ If you find this data useful in your own research, please mention this manuscrip
 
 ## Overview
 
-The following table summarizes the measurements and data provided in this repository
+The following table summarizes the measurements and data provided in this repository. Individual data sets and more detailed information can be found in the subfolders of the repository.
 
 | Month/Year of acquisition | Method | Quantity |
 | --- | --- | --- |
-| 10/2018  | Sub-bottom profiler (SBP) | Text |
-| 10/2018  | Transient electromagnetics (TEM)  | Text |
-| 03/2019  | Time-domain induced polarization (TDIP) | 8 lines (jshdv) |
+| 10/2018  | Sub-bottom profiler (SBP) | lines |
+| 10/2018  | Transient electromagnetics (TEM)  |  soundings |
+| 03/2019  | Time-domain induced polarization (TDIP) | 8 lines |
 | 03/2019  | Seismic refraction tomography (SRT) | 4 lines (460 m)  |
 | 03/2019  | Spectral induced polarization (SIP) lab measurements | 6 samples |
-
-Comsol models are those with the *.mph* extension. Yet, all numerical data used in the manuscript is available without running the Comsol simulation.
