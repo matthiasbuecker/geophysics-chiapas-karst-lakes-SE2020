@@ -18,7 +18,7 @@ This subfolder contains the time-domain induced polarization data sets of lakes 
 
 All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) configuration. DD measurements include TDIP data, We only electrical resistivity (no IP data).
 
-TDIP data is provided as binary files *.bin*, which can be read and processed with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
+TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
 
 ## Smooth models (02_smooth_models)
 This subfolder contains the smooth 20-layer resistivity models inverted with the geophysical inversion software ZondTEM1d (Kaminsky, 2001).
