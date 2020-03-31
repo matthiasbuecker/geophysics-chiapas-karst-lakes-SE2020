@@ -19,7 +19,7 @@ The following table summarizes the measurements and data provided in this reposi
 
 | Directory | Method | Month/Year of acquisition | Quantity |
 | --- | --- | --- | --- |
-| 01_SBP | Sub-bottom profiler (SBP) | 10/2018  | lines |
+| 01_SBP | Sub-bottom profiler (SBP) | 10/2018  | 62 lines |
 | 02_TEM | Transient electromagnetics (TEM) | 10/2018  | 96 soundings |
 | 03_TDIP | Time-domain induced polarization (TDIP) | 03/2019 | 8 lines |
 | 04_SRT | Seismic refraction tomography (SRT) | 03/2019 |  3 lines |
