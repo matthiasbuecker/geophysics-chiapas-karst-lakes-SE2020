@@ -10,8 +10,8 @@ This subfolder contains the time-domain induced polarization data sets of lakes 
 | Metzabok | 10/09/2019  | MET19-3 | 2 | 48 (5 m) | 235 m | Parallel to MET19-2, shifted 10 m East |
 | Metzabok | 10/09/2019  | MET19-4 | 3 | 24 (5 m) | 115 m | Perpendicular to MET19-3, centred at residual pond |
 | Metzabok | 10/10/2019  | MET19-5 | 4 | 48 (5 m) | 235 m | Along TEM line, roughly soundings MET3-MET7 |
-
-
+| Metzabok | 10/11/2019  | MET19-6 | - | 24 (5 m) | 115 m | Parallel to MET19-1/2, shifted ~20 m East |
+| Metzabok | 10/13/2019  | MET19-7 | - | 48 (5 m) | 235 m | Crossing landbridge from Metzabok to Tzibaná |
 
 *Survey lines, which are not associated with a profile are not included in the manuscript.
 
