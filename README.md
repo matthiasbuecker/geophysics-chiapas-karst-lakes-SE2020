@@ -20,7 +20,7 @@ The following table summarizes the measurements and data provided in this reposi
 | --- | --- | --- | --- |
 | 10/2018  | Sub-bottom profiler (SBP) | Text |
 | 10/2018  | Transient electromagnetics (TEM)  | Text |
-| 03/2019  | Time-domain induced polarization (TDIP) | 8 lines () |
+| 03/2019  | Time-domain induced polarization (TDIP) | 8 lines (jshdv) |
 | 03/2019  | Seismic refraction tomography (SRT) | 4 lines (460 m)  |
 | 03/2019  | Spectral induced polarization (SIP) lab measurements | 6 samples |
 
