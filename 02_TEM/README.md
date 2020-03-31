@@ -15,8 +15,10 @@ For every line, TEM sounding data are provided as a separate *.tem* file for eac
 This subfolder contains the smooth 20-layer models inverted with ZONDTEM1D.
 
 ## Visualization (03_visualization)
-The visualization directory contains Matlab scripts for the visualization of the inverted data and *.txt* files with the positions of the individual TEM soundings along the profiles (Profile 4 of Lake Metzabok and Profile 5 of Lake Tziabaná) presented in the manuscript.
+The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data and *.txt* files with the positions of the individual TEM soundings along the profiles (Profile 4 of Lake Metzabok and Profile 5 of Lake Tziabaná) presented in the manuscript.
 
-For the visualization, we use the 
+Instead of the default Matlab colormaps, we the perceptually uniform colormaps as implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
+
+## References
 
 Ander Biguri (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020. 
