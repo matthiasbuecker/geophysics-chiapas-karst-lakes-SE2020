@@ -1,7 +1,7 @@
 # Time-domain induced polarization (TDIP) data
 
 ## Raw data (01_raw)
-This subfolder contains the transient electromagnetic data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in March 2018. The following table summarizes the available data.
+This subfolder contains the time-domain induced polarization data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in October 2019. The following table summarizes the available data.
 
 | Lake | Acquisition date | Number of soundings |
 | --- | --- | --- |
