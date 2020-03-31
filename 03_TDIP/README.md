@@ -13,11 +13,12 @@ This subfolder contains the time-domain induced polarization data sets of lakes 
 | Metzabok | 10/11/2019  | MET19-6 | - | 24 (5 m) | 115 m | Parallel to MET19-1/2, shifted ~20 m East |
 | Metzabok | 10/13/2019  | MET19-7 | - | 48 (5 m) | 235 m | Crossing land bridge from Metzabok to Tzibaná |
 | Metzabok | 10/14/2019  | TZI19-1 | 5 | 48 (5/10 m) | 345 m | On river delta; #1-12 and #36-48: 10 m spacing, #12-36: 5 m spacing |
+
 *Profile number in the manuscript. Survey lines without profile number are not included in the manuscript.
 
-DD (TDIP) and We (ERT),
+All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) configuration. DD measurements include TDIP data, We only electrical resistivity (no IP data).
 
-For every line, TEM sounding data are provided as a separate *.tem* file for each sounding. Location and water-depth data for the soundings are listed for each lake in the *.txt* files included in the raw-data directory. 
+TDIP data is provided as binary files *.bin*, which can be read and processes with the . 
 
 ## Smooth models (02_smooth_models)
 This subfolder contains the smooth 20-layer resistivity models inverted with the geophysical inversion software ZondTEM1d (Kaminsky, 2001).
