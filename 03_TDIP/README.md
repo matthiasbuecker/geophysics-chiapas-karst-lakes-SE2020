@@ -3,10 +3,10 @@
 ## Raw data (01_raw)
 This subfolder contains the time-domain induced polarization data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in October 2019. The following table summarizes the available survey lines.
 
-| Lake | Acquisition date | Line ID | Profile* | Number of electrodes | Electrode spacing | Total length | Remarks |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Metzabok | 10/08/2019  | MET19-1 | 1 | 48 | 10 m | 470 m | DD (TDIP) and We (ERT) |
-| Metzabok | 10/08/2019  | MET19-2 | 1 | 48 | 10 m | 470 m | DD (TDIP) and We (ERT), overlap 24 electrodes with MET19-1 |
+| Lake | Acquisition date | Line ID | Profile* | Number of electrodes (spacing) | Total length | Remarks |
+| --- | --- | --- | --- | --- | --- | --- |
+| Metzabok | 10/08/2019  | MET19-1 | 1 | 48 (10 m) | 470 m | DD (TDIP) and We (ERT) |
+| Metzabok | 10/08/2019  | MET19-2 | 1 | 48 (10 m) | 470 m | DD (TDIP) and We (ERT), overlap 24 electrodes with MET19-1 |
 
 *Survey lines, which are not associated with a profile are not included in the manuscript.
 
