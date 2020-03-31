@@ -20,8 +20,8 @@ All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) conf
 
 TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
 
-## Smooth models (02_models)
-This subfolder contains the smooth complex resistivity models inverted with the geophysical inversion algorithm CRTomo (Kemna, 2000).
+## Complex-resistivity models (02_models)
+This subfolder contains the complex-resistivity models inverted with the geophysical inversion algorithm CRTomo (Kemna, 2000).
 
 ## Visualization (03_visualization)
 The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data.
