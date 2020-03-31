@@ -16,6 +16,9 @@ If you find this data useful in your own research, please mention this manuscrip
 
 The following table summarizes the measurements and data provided in this repository
 
-
+| Year of acquisition | Method | Total | Purpose
+| --- | --- | --- | --- |
+| 2018  | Sub-bottom profiler (SBP) | Text | Text |
+| 2018  | Transient electromagnetics (TEM)  | Text | Text |
 
 Comsol models are those with the *.mph* extension. Yet, all numerical data used in the manuscript is available without running the Comsol simulation.
