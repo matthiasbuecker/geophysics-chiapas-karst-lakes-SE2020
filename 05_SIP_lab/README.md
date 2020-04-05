@@ -11,3 +11,6 @@ Geographic coordinates (WGS84) were measured with a handheld GPS (Garmin eTrex 1
 | Metzabok | Draga 3 | 17.13405 | 91.63365 | 521 m | 10/14/2019 | Ekman grab |Sediment from residual pond (Charco 3) over deepest point of Metzabok |
 
 Please note that the altitude measured with handheld GPS devices has a large error.
+
+## Data and visualization
+The measured electrical resistivity spectra for all six samples are summarized in the *.xlsx* file. The two Matlab scripts (*.m* files) are used to create the plots presented in the manuscript. 
