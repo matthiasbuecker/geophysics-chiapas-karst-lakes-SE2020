@@ -10,7 +10,7 @@ This subfolder contains the sub-bottom profiler data sets of lakes Metzabok (MET
 |   |  | East-West/West-East | 19 |
 | **Total** | | | **62** |
 
-For every line, sounding and navigation data are provided as *.seg* and *.csv* files, respectively. Sound-velocity profiles (SVP) for both lakes were measured with a DigibarS and are provided in the corresponding excel sheets.
+For every line, sounding and navigation data are provided as *.seg* and *.csv* files, respectively. For some lines, we also provide the *.odc* files (proprietary). Sound-velocity profiles (SVP) for both lakes were measured with a DigibarS and are provided in the corresponding excel sheets.
 
 ## Scripts
 This directory contains Matlab scripts (.m files) for the visualization of the SBP data. To read the SBP data from the *.seg* files, we use functions provided by Stuart Kozola (2020). The corresponding package has to be downloaded from the MATLAB Central File Exchange before our visualization scripts can be run.
