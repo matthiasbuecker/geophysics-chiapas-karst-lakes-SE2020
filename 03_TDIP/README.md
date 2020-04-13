@@ -20,10 +20,13 @@ All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) conf
 
 TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
 
-## Complex-resistivity models (02_models)
+## Processed data (02_processesed)
+This subfolder contains the filtered data used for the inversion. The first two columns of the *.crt* files contain the electrode numbers of the four-point measurement (format: A*10,000+B and M*10,000+N), the third the transfer resistance (in Ohm.m), and the fourth the phase (mrad) obtained by linearly converting the TDIP chargeability (see manuscript for more details).
+
+## Complex-resistivity models (03_models)
 This subfolder contains the complex-resistivity models inverted with the geophysical inversion algorithm CRTomo (Kemna, 2000).
 
-## Visualization (03_visualization)
+## Visualization (04_visualization)
 The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data.
 
 Instead of the default Matlab colormaps, we use the perceptually uniform colormaps *viridis.m* and *cividis.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
