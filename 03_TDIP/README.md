@@ -23,10 +23,10 @@ TDIP data is provided as binary files *.bin*, which can be read, processed and e
 For lines with significant topograpy, we also include *.txt* files with the description of the electrode positions (1st column: electrode number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest electrode along the line.)
 
 ## Processed data (02_processesed)
-This subfolder contains the filtered data used for the inversion. The first two columns of the *.crt* files contain the electrode numbers of the four-point measurement (format: A*10,000+B and M*10,000+N), the third the transfer resistance (in Ohm.m), and the fourth the phase (mrad) obtained by linearly converting the TDIP chargeability (see manuscript for more details).
+This subfolder contains the filtered data used for the inversion. The first two columns of the *.crt* files contain the electrode numbers of the four-point measurement (format: Ax10,000+B and Mx10,000+N), the third the transfer resistance (in Ohm.m), and the fourth the phase (mrad) obtained by linearly converting the TDIP chargeability (see manuscript for more details).
 
 ## Complex-resistivity models (03_models)
-This subfolder contains the complex-resistivity models inverted with the geophysical inversion algorithm CRTomo (Kemna, 2000).
+This subfolder contains the fine-element grids used for the inversion as well as the complex-resistivity models obtained with the geophysical inversion algorithm CRTomo (Kemna, 2000).
 
 ## Visualization (04_visualization)
 The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data.
