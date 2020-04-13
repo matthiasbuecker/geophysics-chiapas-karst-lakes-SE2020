@@ -22,7 +22,7 @@ TDIP data is provided as binary files *.bin*, which can be read, processed and e
 
 For lines with significant topograpy, we also include *.txt* files with the description of the electrode positions (1st column: electrode number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest electrode along the line.)
 
-## Processed data (02_processesed)
+## Processed data (02_processed)
 This subfolder contains the filtered data used for the inversion. The first two columns of the *.crt* files contain the electrode numbers of the four-point measurement (format: Ax10,000+B and Mx10,000+N), the third the transfer resistance (in Ohm.m), and the fourth the phase (mrad) obtained by linearly converting the TDIP chargeability (see manuscript for more details).
 
 ## Complex-resistivity models (03_models)
