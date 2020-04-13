@@ -24,3 +24,6 @@ The following table summarizes the measurements and data provided in this reposi
 | 03_TDIP | Time-domain induced polarization (TDIP) | 03/2019 | 8 lines |
 | 04_SRT | Seismic refraction tomography (SRT) | 03/2019 |  3 lines |
 | 05_SIP_lab | Spectral induced polarization (SIP) lab measurements | 03/2019  | 6 samples |
+
+## Financial support
+Financial support for the geophysical surveys was provided by Consejo Nacional de Ciencia y Tecnología (CONACyT) under grant number 252148 and Deutsche Forschungsgemeinschaft (DFG) under grant numbers BU3911/1-1 and PE2133/1-1. Parts of this work were funded through the Austrian Science Fund (FWF) – Agence Nationale de la Recherche (ANR) research project FWF-I-2619-N29 and ANR-15-CE04-0009-01 HYDROSLIDE: Hydro-geophysical observations for an advanced understanding of clayey landslides as well as by the Austrian Federal Ministry of Science, Research and Economy (project: ExploGRAF- Development of geophysical exploration methods for the characterization of mine-tailings towards exploitation).
