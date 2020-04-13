@@ -1,0 +1,55 @@
+TDIP measurements on lakes Metzabok and Tzibaná, October 2019
+-------------------------------------------------------------
+
+Metzabok 10/8/2019
+------------------
+10 m spacing, DD (rho+ip), We (rho)
+Along line SBP L4 NS
+
+File name		Description/remarks
+-------------------------------------------------------------------------------
+MET19-1-DD		Starting from the northern shore
+MET19-1-WE		...
+MET19-2-DD		First roll along with 24 electrodes overlap
+MET19-2-WE		...
+
+Metzabok 10/9/2019
+------------------
+5 m spacing, DD (rho+ip), We (rho)
+
+File name		Description/remarks
+-------------------------------------------------------------------------------
+MET19-3-DD		Parallel to line SBP L4 NS, shifted 10 m to the East, centred around the hole (also see SRT line)
+MET19-3-WE		...
+MET19-4-DD		Perpendicular to line MET19-3, centred around the hole
+MET19-4-WE		...
+
+Metzabok 10/10/2019
+------------------
+5 m spacing between
+DD (rho+ip), We (rho)
+
+File name		Description/remarks
+-------------------------------------------------------------------------------
+MET19-5-DD		Along the 2018 TEM line (roughly from MET3 through MET7)
+MET19-5-WE		...
+
+Metzabok 11/10/2019
+-------------------
+5 m spacing, DD (rho+ip), We (rho)
+
+File name		Description/remarks
+-------------------------------------------------------------------------------
+MET19-6-DD		Parallel to MET19-1/2, shifted ~20 m East
+MET19-6-WE		...
+
+Tzibaná 14/10/2019
+-------------------
+DD (rho+ip), We (rho)
+#1-#12 and #37-#48: 10 m spacing
+#12-#37: 5 m spacing
+
+File name		Description/remarks
+-------------------------------------------------------------------------------
+TZI19-1-DD		Along the 2018 TEM line starting from the beach 
+TZI19-1-WE		...
