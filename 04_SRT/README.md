@@ -3,33 +3,34 @@
 ## Raw data (01_raw)
 This subfolder contains the seismic refraction tomography data sets of lakes Metzabok (MET) and Tzibaná (TZI) acquired in October 2019. The following table summarizes the available survey lines.
 
-| Lake | Acquisition date | Line ID | Profile* | Electrodes (spacing) | Total length | Remarks |
+| Lake | Acquisition date | Line ID | Profile* | Geophones (spacing) | Total length | Remarks |
 | --- | --- | --- | --- | --- | --- | --- |
-| Metzabok | 10/08/2019  | MET19-1 | 1 | 48 (10 m) | 470 m | Starting from the northern shore |
-| Metzabok | 10/08/2019  | MET19-2 | 1 | 48 (10 m) | 470 m | Roll along, overlap 24 electrodes with MET19-1 |
-| Metzabok | 10/09/2019  | MET19-3 | 2 | 48 (5 m) | 235 m | Parallel to MET19-2, shifted 10 m East |
-| Metzabok | 10/09/2019  | MET19-4 | 3 | 24 (5 m) | 115 m | Perpendicular to MET19-3, centred at residual pond |
-| Metzabok | 10/10/2019  | MET19-5 | 4 | 48 (5 m) | 235 m | Along TEM line, roughly soundings MET3-MET7 |
-| Metzabok | 10/11/2019  | MET19-6 | - | 24 (5 m) | 115 m | Parallel to MET19-1/2, shifted ~20 m East |
-| Metzabok-Tzibaná | 10/13/2019  | MET19-7 | - | 48 (5 m) | 235 m | Crossing land bridge from Metzabok to Tzibaná |
-| Tzibaná | 10/14/2019  | TZI19-1 | 5 | 48 (5/10 m) | 345 m | On river delta; #1-12 and #36-48: 10 m spacing, #12-36: 5 m spacing |
+| Metzabok | 10/09/2019  | MET19-3b | 2 | 24 (5 m) | 115 m | Central part of TDIP line MET19-3 (electrodes 13-36) |
+| Metzabok | 10/10/2019  | MET19-5b | 4 | 24 (5 m) | 115 m | Central part of TDIP line MET19-5 (electrodes 13-36) |
+| Tzibaná | 10/14/2019  | TZI19-1 | 5 | 24 (5 m) | 115 m | Central part of TDIP line MTZI19-1 (electrodes 13-36) |
 
 *Profile number in the manuscript.
 
-TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
+TDIP data is provided as separate ASCII files *.dat* for each shot point. Information on the measurement parameters and shot-point locations along the line are summarized in the *info.txt* files in the corresponding subdirectories.
 
-For lines with significant topograpy, we also include *.txt* files with the description of the electrode positions (1st column: electrode number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest electrode along the line.)
+For lines with significant topograpy, we also include *.txt* files with the description of the geophone positions (1st column: geophone number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest geophone along the line.)
 
 ## Processed data (02_processed)
 This subfolder contains the picked first arrivals used for the inversion.
 
-## Complex-resistivity models (03_models)
-This subfolder contains the fine-element grids used for the inversion as well as the p-wave velocity models obtained with the geophysical inversion package pyGIMLi (, 2000).
+## P-wave velocity models (03_models)
+This subfolder contains the fine-element grids used for the inversion as well as the p-wave velocity models obtained with the geophysical inversion package pyGIMLi (Rücker et al., 2017).
 
 ## Visualization (04_visualization)
 The visualization directory contains Matlab scripts (*.m* files) for the visualization of the inverted data.
+
+To read the *.vtk* mesh files used by pyGIMLi, we use elements of a Matlab script prepared by Mario Richtsfeld (2020).
 
 Instead of the default Matlab colormaps, we use the perceptually uniform colormaps *plasma.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
 
 ## References
 Biguri, Ander (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020.
+
+Richtsfeld, Mario (2020). read_vtk.m (https://github.com/gpeyre/matlab-toolboxes/blob/master/toolbox_graph/read_vtk.m), Github, Retrieved February, 2020.
+
+Rücker, C., Günther, T., Wagner, F. M. (2017). pyGIMLi: An open-source library for modelling and inversion in geophysics, Computers and Geosciences, 109, 106-123.
