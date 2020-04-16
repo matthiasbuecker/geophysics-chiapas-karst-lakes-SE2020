@@ -5,13 +5,13 @@ This subfolder contains the seismic refraction tomography data sets of lakes Met
 
 | Lake | Acquisition date | Line ID | Profile* | Geophones (spacing) | Total length | Remarks |
 | --- | --- | --- | --- | --- | --- | --- |
-| Metzabok | 10/09/2019  | MET19-3b | 2 | 24 (5 m) | 115 m | Central part of TDIP line MET19-3 (electrodes 13-36) |
-| Metzabok | 10/10/2019  | MET19-5b | 4 | 24 (5 m) | 115 m | Central part of TDIP line MET19-5 (electrodes 13-36) |
+| Metzabok | 10/11/2019  | MET19-3b | 2 | 24 (5 m) | 115 m | Central part of TDIP line MET19-3 (electrodes 13-36) |
+| Metzabok | 10/13/2019  | MET19-5b | 4 | 24 (5 m) | 115 m | Central part of TDIP line MET19-5 (electrodes 13-36) |
 | Tzibaná | 10/14/2019  | TZI19-1 | 5 | 24 (5 m) | 115 m | Central part of TDIP line MTZI19-1 (electrodes 13-36) |
 
 *Profile number in the manuscript.
 
-TDIP data is provided as separate ASCII files *.dat* for each shot point. Information on the measurement parameters and shot-point locations along the line are summarized in the *info.txt* files in the corresponding subdirectories.
+SRT data is provided as separate ASCII files *.dat* for each shot point. Information on the measurement parameters and shot-point locations along the line are summarized in the *info.txt* files in the corresponding subdirectories.
 
 For lines with significant topograpy, we also include *.txt* files with the description of the geophone positions (1st column: geophone number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest geophone along the line.)
 
