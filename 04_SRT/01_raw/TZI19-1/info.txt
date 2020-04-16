@@ -1,0 +1,38 @@
+SRT line TZI19-1
+-----------------
+Lake: Tzibaná 
+Date: 10/14/2019
+Comments:
+SRT line along one of the 2018 TEM lines
+5 m spacing
+
+Position (m)*	File number(s)
+------------------------------
+
+-2.5			1
+2.5				2
+7.5				3
+12.5			4
+17.5			5
+22.5			6
+27.5			7
+32.5			8
+37.5			9
+42.5			10
+47.5			11
+52.5			12
+57.5			13
+62.5			14
+67.5			15
+72.5			16
+77.5			17,18 here possibly measured twice. Please check in the data!
+82.5			19
+87.5			20
+92.5			21
+97.5			22
+102.5			23
+107.5			24
+112.5			25
+117.5				26
+----------------------------------------------
+* Relative to geophone 1 @ 0 m

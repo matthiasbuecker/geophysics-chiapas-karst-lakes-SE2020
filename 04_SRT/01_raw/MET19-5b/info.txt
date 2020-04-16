@@ -1,0 +1,31 @@
+SRT line MET19-5b
+-----------------
+Lake: Metzabok 
+Date: 10/13/2019
+Comments: Repetition of line MET19-5 with buried geophones and 9 stacks to improve data quality
+No far shots (30 m, 20 m, 10 m, 5 m)
+Other changes: pre-trigger (-0.01 s), 250 ms sampling depth
+
+Position (m)*	File number(s)
+------------------------------
+-2.5			1
+2.5				2
+7.5				3
+12.5			4
+17.5			5
+22.5			6
+27.5			7
+32.5			8
+37.5			9
+42.5			10			geophones 9 and 18 replaced
+...				...
+107.5			23
+112.5			24
+117.5			25
+----------------------------------------------
+* Relative to geophone 1 @ 0 m
+
+Comments (MET19-5):
+SRT line along ERT line MET19-5
+Both centred around the same point (i.e., electrodes 13-36 = geophones 1-24)
+Both 5 m spacing
