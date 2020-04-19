@@ -12,5 +12,7 @@ Geographic coordinates (WGS84) were measured with a handheld GPS (Garmin eTrex 1
 
 Please note that the altitude measured with handheld GPS devices has a large error.
 
+Locations data is also provided in terms of the GIS files included in the file *sampling_loactions.zip*.
+
 ## Data and visualization
 The measured electrical resistivity spectra for all six samples are summarized in the *.xlsx* file. The two Matlab scripts (*.m* files) are used to create the plots presented in the manuscript. 
