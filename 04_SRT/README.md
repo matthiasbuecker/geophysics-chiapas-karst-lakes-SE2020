@@ -13,7 +13,9 @@ This subfolder contains the seismic refraction tomography data sets of lakes Met
 
 SRT data is provided as separate ASCII files *.dat* for each shot point. Information on the measurement parameters and shot-point locations along the line are summarized in the *info.txt* files in the corresponding subdirectories.
 
-For lines with significant topograpy, we also include *.txt* files with the description of the geophone positions (1st column: geophone number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest geophone along the line.)
+GPS positions (datum: WGS84) of 2-3 geophones along each SRT line are listed in the file *SRT_GPS.txt*. 
+
+For line TZI19-1, which has a significant topograpy, we also include a *.txt* file with the description of the geophone positions (1st column: geophone number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest geophone along the line.)
 
 ## Processed data (02_processed)
 This subfolder contains the picked first arrivals used for the inversion.
