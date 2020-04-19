@@ -33,6 +33,9 @@ The visualization directory contains Matlab scripts (*.m* files) for the visuali
 
 Instead of the default Matlab colormaps, we use the perceptually uniform colormaps *viridis.m* and *cividis.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
 
+## GIS files (*TDIP_shp.zip*)
+GIS files for all TDIP lines discussed in the manuscript. For the localization of the remaining lines, see the raw data directory.
+
 ## References
 Biguri, Ander (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020.
 
