@@ -28,6 +28,9 @@ To read the *.vtk* mesh files used by pyGIMLi, we use elements of a Matlab scrip
 
 Instead of the default Matlab colormaps, we use the perceptually uniform colormaps *plasma.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
 
+## GIS files (*SRT_shp.zip*)
+GIS files for all SRT lines.
+
 ## References
 Biguri, Ander (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020.
 
