@@ -21,6 +21,9 @@ The visualization directory contains Matlab scripts (*.m* files) for the visuali
 
 Instead of the default Matlab colormaps, we use the perceptually uniform colormap *viridis.m* implemented for Matlab by Ander Biguri (2020), which were originally designed for python´s matplotlib (see  https://bids.github.io/colormap/).
 
+## GIS files (*TEM_shp.zip*)
+GIS files of all TEM sounding stations in Lake Metzabok (MET) and Lake Tzibaná (TZI).
+
 ## References
 Biguri, Ander (2020). Perceptually uniform colormaps (https://www.mathworks.com/matlabcentral/fileexchange/51986-perceptually-uniform-colormaps), MATLAB Central File Exchange. Retrieved March 31, 2020.
 
