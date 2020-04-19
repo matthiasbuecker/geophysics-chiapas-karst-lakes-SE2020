@@ -18,7 +18,9 @@ This subfolder contains the time-domain induced polarization data sets of lakes 
 
 All survey lines where measured with a Dipole-Dipole (DD) and a Wenner (We) configuration. DD measurements include TDIP data, We only electrical resistivity (no IP data).
 
-TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). 
+TDIP data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing).
+
+GPS positions (datum: WGS84) of selected electrodes along each TDIP line are listed in the file TDIP_GPS.txt.
 
 For lines with significant topograpy, we also include *.txt* files with the description of the electrode positions (1st column: electrode number, 2nd column: distance along the line; 3rd column: estimated altitude - relative to lowest electrode along the line.)
 
