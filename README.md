@@ -26,3 +26,10 @@ The following table summarizes the measurements and data provided in this reposi
 
 ## Financial support
 Financial support for the geophysical surveys was provided by Consejo Nacional de Ciencia y Tecnología (CONACyT) under grant number 252148 and Deutsche Forschungsgemeinschaft (DFG) under grant numbers BU3911/1-1 and PE2133/1-1. Parts of this work were funded through the Austrian Science Fund (FWF) – Agence Nationale de la Recherche (ANR) research project FWF-I-2619-N29 and ANR-15-CE04-0009-01 HYDROSLIDE: Hydro-geophysical observations for an advanced understanding of clayey landslides as well as by the Austrian Federal Ministry of Science, Research and Economy (project: ExploGRAF- Development of geophysical exploration methods for the characterization of mine-tailings towards exploitation).
+
+## License information
+© 2020 the authors.
+
+This work is licensed under CC-BY version 4.0.
+
+Visit https://creativecommons.org/licenses/by/4.0 or see the LICENSE file for more information.
