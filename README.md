@@ -1,10 +1,10 @@
 ## Data set | Water- and land-borne geophysical surveys  before and after the sudden water-level decrease of two large karst lakes in southern Mexico
 
-<!---[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3067277.svg)](https://doi.org/10.5281/zenodo.3067277)--->
+
 
 This repository contains raw and processed data along with the Matlab scripts used to prepare the visualizations presented in the manuscript
 
-Bücker, M., Perez, L., Flores Orozco, A., Gallistl, J., Steiner, M., Aigner, L., Hoppenbrock, J., Glebe, R., Morales Barrera, W., Pita de la Paz, C., García García, E., Razo Pérez, J.A., Buckel, J., Hördt, A., and Schwalb, A. (2020). *Water- and land-borne geophysical surveys  before and after the sudden water-level decrease of two large karst lakes in southern Mexico*. To be submitted to Solid Earth.
+Bücker, M., Flores Orozco, A., Gallistl, J., Steiner, M., Aigner, L., Hoppenbrock, J., Glebe, R., Morales Barrera, W., Pita de la Paz, C., García García, E., Razo Pérez, J.A., Buckel, J., Hördt, A., and Schwalb, A., Perez, L. (2020). *Water- and land-borne geophysical surveys  before and after the sudden water-level decrease of two large karst lakes in southern Mexico*. Submitted to Solid Earth.
 
 If you find this data useful in your own research, please mention this data set and/or the manuscript.
 
